@@ -1,0 +1,5 @@
+Server running on port 4000
+[0mGET /health [32m200[0m 13.181 ms - 15[0m
+[0mPOST /api/categories [32m201[0m 12.159 ms - 104[0m
+[0mGET /api/categories [32m200[0m 7.051 ms - 141[0m
+[0mPOST /api/products [32m201[0m 6.277 ms - 246[0m
